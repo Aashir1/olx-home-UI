@@ -1,0 +1,214 @@
+body,html{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+
+}
+.wrapper{
+    width:876px;
+    height: 93px;
+    margin: 0 auto 
+}
+.olx-logo{
+    width: 92px;
+    height: 92px;
+}
+.wrapper-span{
+    top: 54px;
+    /* top: 54px; */
+    left: 344px;
+  position: absolute;
+  font-size: 20px;
+    font-weight: normal;
+    line-height: 15px;
+}
+.wrapper2{
+    position: relative;
+    left: 482px;
+    bottom: 32px;
+}
+.person-logo{
+        position: relative;
+    top: 6px;
+    margin-right: 10px;
+    }
+    .wrapper2-anker{
+        text-decoration: none;
+        color: #2965be;
+        font-weight: bold;
+    }
+    .wrapper2-anker:hover{
+        color: #ff7700;
+    }
+    .button:hover{
+        opacity: 0.6;
+        cursor: pointer;
+    }
+.button{
+        font-size: 17px;
+    padding: 13px 21px;
+    border: none;
+    background-color: #ff7700;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 15px;
+    border-radius: 5px
+}
+.views{
+        width: 878px;
+    border: 1px solid;
+    height: 658px;
+    margin: 0px auto;
+}
+.list-of-views{
+  width: 238px;
+    height: 594px;
+    float: left;
+    
+    padding-top: 24px;
+    padding-bottom: 38px;
+    background-color:  #f8f8f8
+}
+.h3{
+        font-size: 15px;
+    text-decoration: none;
+    font-weight: normal;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.ads{
+        text-decoration: none;
+    font-size: 15px;
+    color: #2965be;
+}
+.heading{
+        margin: 0px 23px 10px 23px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+        height: 52px;
+}
+.list-item{
+        text-decoration: none;
+        display: block;
+            font-size: 15px;
+    color: #2965be;
+    padding: 9px 23px;
+    /* list-style: none;
+    padding: 9px 38px;*/
+}
+li{
+    width: 238px;
+    height: 36px;
+    list-style: none;
+}
+.unorder-list{
+        padding-left: 0px;
+
+}
+.list-wrapper{
+    background-color: #f8f8f8;
+}
+.electronics{
+        width: 192px;
+    padding: 9px 23px;
+    margin-bottom: 0px;
+    height: 36px;
+}
+.eha{
+        width: 238px;
+    height: 55px;
+    list-style: none;
+}
+a:hover{
+   color: #ff7700 ;
+   cursor: pointer;
+}
+.veiw1{
+        width:618px;
+    height: 637px;
+    border: 1px solid;
+        float: left;
+        padding: 10px;
+}
+.pakistan-location{
+       width: 584px;
+    height: 19px;
+   margin-bottom: 20px;
+    background-color: #fbfaae;
+    padding: 12px 16px 10px 16px;
+        border-radius: 5px;
+ }
+.inline{
+    display: inline;
+        position: relative;
+    bottom: 5px;
+}
+.location-image{
+    width: 21px;
+    height: 21px;
+}
+.inline-h3{
+    font-size: 17px;
+    color: #336dbe;
+}
+.inline-h3:hover{
+    color: #ff7700;
+}
+.paragraph{
+    font-size: 12px;
+    color: #414141;
+}
+.location{
+    text-decoration: none;
+}
+.veiw2{
+     width: 592px;
+    height: 252px;
+    border: 1px solid;
+    padding: 12px;
+}
+.mobile-info{
+    width: 594px;
+    height: 92px;
+    border-bottom: 1px solid #d5d5d5;
+}
+.mobile-info-image{
+    width: 160px;
+    height: 92px;
+    float: left;
+}
+.mobile-image{
+    display: block;
+    width: 40px;
+    margin: 15px auto;
+}
+.view-mobile-info{
+        width: 434px;
+    height: 71px;
+    float: left;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+.view-mobile-info-h4{
+        margin: 0px;
+    font-size: 20px;
+    font-weight: 200;
+}
+.ads-quantity{
+    margin: 0px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.view-all-ads{
+        margin: 0px;
+    margin-top: 10px;
+    font-size: 14px;
+
+}
+a{
+    color: #296ecc;
+    text-decoration: none;
+}
+.mobile-view-option{
+    
+}

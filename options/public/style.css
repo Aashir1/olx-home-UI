@@ -1,0 +1,217 @@
+body.html{
+    margin: 0px;
+    padding: 0px;
+}
+.body-1{
+   
+    width: 876px;
+    height: 459px;
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+}
+.table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+}
+.options{
+        width: 518px;
+    height: 439px;
+    /*border: 1px solid;*/
+}
+.table-data{
+    width: 113px;
+    height: 117px;
+    border: 1px solid #eae9e8;
+    
+}
+.logo-mobile{
+       width: 35px;
+    margin: 0px auto;
+    margin-top: -34px;
+}
+.content-mobile{
+   width: 48px;
+    margin: 0 auto;
+    color: #2f73d8;
+    /* margin-top: 0px; */
+    font-size: 14px;
+}
+.content{
+     color: #2f73d8;
+     font-size: 14px;
+}
+.content:hover{
+    color: #ff9335;
+}
+.logo-electronics{
+    width: 46px;
+    margin: 0px auto;
+   
+}
+.content-electronics{
+       width: 98px;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 14px;
+}
+.logo-vehicle{
+     width: 65px;
+    margin: 0px auto;
+    margin-top: 0px;
+}
+.content-vehicle{
+        width: 54px;
+    margin: 0 auto;
+    margin-bottom: 23px;
+}
+.logo-property{
+        width: 69px;
+    margin: 0 auto;
+        margin-top: -25px;
+}
+.content-property{
+        width: 56px;
+    margin: 0 auto;
+    position: relative;
+    top: -11px;
+}
+.logo-bike{
+    width: 61px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 10px;
+}
+.content-bike{
+        width: 30px;
+    margin: 0 auto;
+        position: relative;
+    bottom: 16px;
+}
+.logo-sofa{
+        width: 64px;
+    margin: 0 auto;
+        position: relative;
+    top: 8px;
+}
+.content-Sofa{
+           width: 85px;
+    margin: 14px auto;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
+.logo-animals{
+        width: 65px;
+    margin: 0 auto;
+}
+.content-animals{
+        width: 52px;
+    margin: 14px auto;
+    position: relative;
+    bottom: 15px;
+}
+.logo-books{
+        width: 53px;
+    margin: 0px auto;
+    position: relative;
+    top: 8px;
+}
+.content-books{
+    width: 94px;
+    margin: 14px auto;
+    position: relative;
+    bottom: 2px;
+    text-align: center;
+}
+.logo-fashion{
+    width: 43px;
+    margin: 0 auto;
+}
+.content-fashion{
+        width: 70px;
+    margin: 14px auto;
+    text-align: center;
+    position: relative;
+    bottom: 1px;
+}
+.logo-kids{
+        width: 44px;
+    margin: 0 auto;
+}
+.content-kids{
+        width: 30px;
+    margin: 14px auto;
+    position: relative;
+    bottom: 11px;
+}
+.logo-service{
+        width: 63px;
+    margin: 0 auto;
+}
+.content-service{
+        width: 56px;
+    margin: 14px auto;
+    position: relative;
+    bottom: 12px;
+}
+.logo-bussnes{
+    width: 51px;
+    margin: 0 auto
+}
+.content-bussnes{
+    width: 67px;
+    margin: 14px auto;
+    position: relative;
+    bottom: 14px;
+}
+.table-data1{
+    border-top: 0px;
+    border-left: 0px;
+
+}
+.table-data2{
+    border-top: 0px;
+}
+.table-data3{
+    border-top: 0px;
+    border-right: 0px;
+}
+.table-data4{
+    border-top: 0px;
+    border-right: 0px;
+
+}
+.table-data5{
+ 
+    border-left: 0px;
+
+}.table-data8{
+    border-top: 0px;
+    border-right: 0px;
+
+}
+.table-data9{
+    border-bottom: 0px;
+    border-left: 0px;
+
+}
+
+.table-data10{
+    border-bottom: 0px;
+ 
+
+}
+
+.table-data11{
+    border-bottom: 0px;
+    
+
+}
+
+.table-data12{
+    border-bottom: 0px;
+    border-right: 0px;
+
+}

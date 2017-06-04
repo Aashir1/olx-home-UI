@@ -1,0 +1,87 @@
+.form{
+    width: 846px;
+    height: 40px;
+    background-color: #b0cfda;
+    margin: 0 auto;
+    padding: 18px 15px;
+    border-radius: 5px;
+}
+.searches{
+    float: left;
+    width: 256px;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+.search-location{
+    width: 84%;
+    font-size: initial;
+    color: #c2c2c2;
+    height: 96%;
+    border: 0px;
+    border-radius: 5px;
+    position: relative;
+    left: 12px;
+}
+.adds-near-you{
+    float: left;
+    width: 427px;
+    height: 40px;
+    position: relative;
+    left: 15px;
+        background-color: #ffffff;
+    border-radius: 5px;
+}
+.adds{
+    width: 94%;
+    height: 38px;
+    border: 0px;
+    border-radius: 5px;
+    position: relative;
+    left: 1px;
+        font-size: initial;
+}
+.button-content{
+    position: relative;
+    bottom: 7px;
+    color: #ffffff;
+}
+.icon{
+    width: 30px;
+}
+.submit-button{
+    
+    border: 3px solid #ffffff;
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: normal;
+    background-color: #2965be;
+    position: relative;
+   bottom: 4px;
+    left: 39px;
+}
+.submit-button:hover{
+    opacity: 0.5px;
+    cursor: pointer;
+}
+.search-location:active{
+    border: 0px;
+}
+.location-logo{
+    width: 11px;
+    height: 20px;
+}
+.label1{
+        position: relative;
+    left: 8px;
+    top: 6px;
+}
+.adds-logo{
+    width: 21px;
+    position: relative;
+    left: 3px;
+    top: 6px;
+    
+}
